@@ -20,7 +20,7 @@
 ## Web開発リファレンス
 
 - [MDN](https://developer.mozilla.org/ja/docs/Web) HTML/CSSに関するリファレンスといえばここ。
-- ［ＨＴＭＬクイックリファレンス](http://www.htmq.com/htmlkihon/001.shtml)
+- [ＨＴＭＬクイックリファレンス](http://www.htmq.com/htmlkihon/001.shtml)
 
 ## Web開発フリー素材
 
