@@ -7,7 +7,7 @@
 - [PC Watch](https://pc.watch.impress.co.jp/) PC系新商品情報が中心。秋葉原情報、デジタルカメラ関連など分野別のニュースサイトも。
 - [翔泳社](https://www.shoeisha.co.jp/media) 開発やマーケティングなど様々な分野
 - [Publickey](https://www.publickey1.jp/) 開発技術全般
-- [@it](https://www.atmarkit.co.jp/) IT関連全般
+- [@IT](https://www.atmarkit.co.jp/) IT関連全般
 - [ITmedia](https://www.itmedia.co.jp/) IT関連全般
 - [TECH+](https://news.mynavi.jp/itsearch/) IT業界
 
