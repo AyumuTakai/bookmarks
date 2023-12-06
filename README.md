@@ -25,6 +25,7 @@
 ## Web開発フリー素材
 
 - [いらすとや(イラスト)](https://www.irasutoya.com/) たくさんのイラスト。 無料で使う場合には使用数の制限があるので要注意。
+- [MingCute Icon](https://www.mingcute.com) フリーアイコン集
 
 ## 情報セキュリティ
 
