@@ -35,6 +35,7 @@
 ## 情報セキュリティ
 
 - [IPA](https://www.ipa.go.jp/index.html)
+- [安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity/about.html)
 - [徳丸浩の日記](https://blog.tokumaru.org/) PHPプログラミングやWebアプリケーションに関するセキュリティ情報
 - [高木浩光＠自宅の日記](https://takagi-hiromitsu.jp/diary/) セキュリティや個人情報保護、データ保護
 
