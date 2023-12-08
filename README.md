@@ -5,6 +5,7 @@
 ## 研修資料
 
 - [【2023年版】エンジニア向け読むべき資料まとめ](https://qiita.com/KNR109/items/160e7d14ef5d08a88a8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items)
+- [2023年最新版の有名企業のエンジニア向け研修資料をまとめてみた](https://qiita.com/eri_issue/items/576acaea7e8235f82d89)
 
 ## IT系総合ニュースサイト
 
