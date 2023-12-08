@@ -2,6 +2,10 @@
 
 紹介用ブックマーク
 
+## 研修資料
+
+- [【2023年版】エンジニア向け読むべき資料まとめ](https://qiita.com/KNR109/items/160e7d14ef5d08a88a8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items)
+
 ## IT系総合ニュースサイト
 
 - [PC Watch](https://pc.watch.impress.co.jp/) PC系新商品情報が中心。秋葉原情報、デジタルカメラ関連など分野別のニュースサイトも。
