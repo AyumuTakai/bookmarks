@@ -57,6 +57,7 @@
 # Network
 
 - [ネットワークエンジニアとして](https://www.infraexpert.com/)
+- [ネットワーク入門サイト](https://beginners-network.com/)
 
 - [ping-t サブネットを学ぼう！](https://ping-t.com/modules/subnet/index.php?content_id=1)
 - [ping-t サブネット暗記ドリル](https://ping-t.com/modules/drill/index.php?content_id=1)
