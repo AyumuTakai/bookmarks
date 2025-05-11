@@ -25,7 +25,7 @@
 ## Web開発リファレンス
 
 - [MDN](https://developer.mozilla.org/ja/docs/Web) HTML/CSSに関するリファレンスといえばここ。
-- [ＨＴＭＬクイックリファレンス](http://www.htmq.com/htmlkihon/001.shtml)
+- [とほほのWWW入門](https://www.tohoho-web.com/www.htm)
 
 ## Web開発フリー素材
 
